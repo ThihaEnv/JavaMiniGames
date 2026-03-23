@@ -98,13 +98,3 @@ src/main/resources/
 \</div\>
 
 -----
-
-### How to use this:
-
-1.  Copy the code above.
-2.  In your project root, create a file named `README.md`.
-3.  Paste the code and replace `ThihaEnv` with your actual GitHub username.
-
-**Important Tip:** To avoid that **YAML Error** you mentioned, make sure you don't use `*` as the very first character in a line inside the metadata header (the part between `---`). In the body of the README (like above), it is perfectly safe\!
-
-Would you like me to show you how to add **Screenshots** of your games into this README to make it look even better?
