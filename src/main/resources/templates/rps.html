@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Peacock Guardians - Game</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0/css/all.min.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" href="/css/style.css">
+</head>
+<body>
+
+<div class="game-container">
+    <div class="glass-card text-center p-5">
+        <h2 class="game-title mb-4">Rock Paper Scissors</h2>
+
+        <div class="choice-group d-flex justify-content-center gap-3 mb-5">
+            <button class="game-btn" onclick="makeMove('rock')">
+                <i class="fa-solid fa-hand-fist"></i>
+                <span>Rock</span>
+            </button>
+            <button class="game-btn" onclick="makeMove('paper')">
+                <i class="fa-solid fa-hand"></i>
+                <span>Paper</span>
+            </button>
+            <button class="game-btn" onclick="makeMove('scissors')">
+                <i class="fa-solid fa-hand-peace"></i>
+                <span>Scissors</span>
+            </button>
+        </div>
+
+        <div id="display-area" class="result-box">
+            <p class="m-0 text-muted">The Result : </p>
+        </div>
+    </div>
+</div>
+
+<script src="/js/script.js"></script>
+</body>
+</html>
