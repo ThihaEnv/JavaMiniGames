@@ -1,17 +1,3 @@
------
-
-# 🎮 Java Mini-Games Hub
-
-> A sleek, interactive collection of classic games built with **Spring Boot** and **Modern Web Technologies.**
-
-\<div align="center"\>
-\<img src="[https://img.shields.io/badge/Java-17+-orange?style=for-the-badge\&logo=java](https://www.google.com/search?q=https://img.shields.io/badge/Java-17%2B-orange%3Fstyle%3Dfor-the-badge%26logo%3Djava)" /\>
-\<img src="[https://img.shields.io/badge/Spring\_Boot-3.4.x-green?style=for-the-badge\&logo=springboot](https://www.google.com/search?q=https://img.shields.io/badge/Spring_Boot-3.4.x-green%3Fstyle%3Dfor-the-badge%26logo%3Dspringboot)" /\>
-\<img src="[https://img.shields.io/badge/Frontend-HTML5\_CSS3\_JS-blue?style=for-the-badge\&logo=javascript](https://www.google.com/search?q=https://img.shields.io/badge/Frontend-HTML5_CSS3_JS-blue%3Fstyle%3Dfor-the-badge%26logo%3Djavascript)" /\>
-\<img src="[https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge](https://www.google.com/search?q=https://img.shields.io/badge/License-MIT-yellow%3Fstyle%3Dfor-the-badge)" /\>
-\</div\>
-
------
 
 ## 🌌 Project Overview
 
