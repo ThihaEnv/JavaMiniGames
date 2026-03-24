@@ -82,12 +82,5 @@ Go to [http://localhost:8080](https://www.google.com/search?q=http://localhost:8
 * [ ] **Multiplayer Mode:** Real-time matches using WebSockets.
 
 -----
-
-\<div align="center"\>
-\<p\>Developed by \<b\>Thiha\</b\>\</p\>
-\<a href="[https://github.com/your-username](https://www.google.com/search?q=https://github.com/your-username)"\>
-\<img src="[https://img.shields.io/badge/Follow\_Me-GitHub-black?style=flat-square\&logo=github](https://www.google.com/search?q=https://img.shields.io/badge/Follow_Me-GitHub-black%3Fstyle%3Dflat-square%26logo%3Dgithub)" /\>
-\</a\>
-\</div\>
-
+Developed by Thiha.
 -----
